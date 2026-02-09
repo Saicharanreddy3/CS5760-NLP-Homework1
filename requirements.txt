@@ -1,0 +1,5 @@
+# CS5760 NLP Homework 1 - Python Dependencies
+# Student: Sai Charan Reddy Chitla
+
+# Natural Language Toolkit for tokenization
+nltk>=3.8.1
